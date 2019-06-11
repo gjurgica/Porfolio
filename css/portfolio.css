@@ -119,13 +119,17 @@ h5{
   }
   #header3{
       color: white;
-      margin: 2rem;
+      margin: 1rem;
+      padding: 1rem;
+  }
+  #header3 p{
+      margin: 1rem;
   }
   .special{
       background-color: rgb(42, 43, 43, 0.5);
-      padding: 0.5rem;
+      padding: 0.3rem;
       border-radius: 10%;
-      font-size: 2rem;
+      font-size: 1.5rem;
       font-weight: bold;
   }
   .para2{
